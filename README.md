@@ -1,17 +1,23 @@
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&section=header&text=✨ParkHyemi✨&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&section=header&text=ParkHyemi&fontSize=60" />
 </div>
 <div align="center">
 	
 ![image](https://i.pinimg.com/originals/3a/e7/92/3ae792706e97941696b70b4763bd2963.gif)
+
+<br/>
 	
+<h4>If you really want to do something, you’ll find a way. <br/>
+If you do not, you’ll find an excuse.</h4><p> -Jim Rohn </p>
+
+<br/>
 </div>
 	
 <div align="center">
 
-### 🎱Skills
+### Skills
 	
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
@@ -23,7 +29,7 @@
 
 <div align="center">
 	
-### 📚Library
+### Library
 	
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Recoil-1572B6?style=flat&logo=React&logoColor=white" />
@@ -34,7 +40,7 @@
   
 <div align="center">
 	
-### 🎉ThirdParty
+### ThirdParty
 	
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white" />
@@ -42,7 +48,7 @@
 
 <div align="center">
 	
-### 🔨Tools
+### Tools
 	
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
