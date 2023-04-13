@@ -40,7 +40,7 @@ If you do not, you’ll find an excuse.</h4><p> -Jim Rohn </p>
   
 <div align="center">
 	
-### ThirdParty
+### Enviorment
 	
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white" />
